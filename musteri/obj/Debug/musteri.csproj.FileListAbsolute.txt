@@ -1,0 +1,14 @@
+D:\Database1\musteri\musteri\obj\Debug\musteri.csproj.AssemblyReference.cache
+D:\Database1\musteri\musteri\obj\Debug\musteri.Form1.resources
+D:\Database1\musteri\musteri\obj\Debug\musteri.Properties.Resources.resources
+D:\Database1\musteri\musteri\obj\Debug\musteri.csproj.GenerateResource.cache
+D:\Database1\musteri\musteri\obj\Debug\musteri.csproj.CoreCompileInputs.cache
+D:\Database1\musteri\musteri\bin\Debug\musteri.exe.config
+D:\Database1\musteri\musteri\bin\Debug\musteri.exe
+D:\Database1\musteri\musteri\bin\Debug\musteri.pdb
+D:\Database1\musteri\musteri\obj\Debug\musteri.exe
+D:\Database1\musteri\musteri\obj\Debug\musteri.pdb
+D:\Database1\musteri\musteri\bin\Debug\musteri.exe.manifest
+D:\Database1\musteri\musteri\bin\Debug\musteri.application
+D:\Database1\musteri\musteri\obj\Debug\musteri.exe.manifest
+D:\Database1\musteri\musteri\obj\Debug\musteri.application
